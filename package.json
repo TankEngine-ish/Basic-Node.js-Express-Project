@@ -1,0 +1,20 @@
+{
+  "name": "basic-node.js-page",
+  "version": "1.0.0",
+  "description": "[personal project]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TankEngine-ish/Basic-Node.js-Page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TankEngine-ish/Basic-Node.js-Page/issues"
+  },
+  "homepage": "https://github.com/TankEngine-ish/Basic-Node.js-Page#readme"
+}
