@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/TankEngine-ish/Basic-Node.js-Page/issues"
   },
-  "homepage": "https://github.com/TankEngine-ish/Basic-Node.js-Page#readme"
+  "homepage": "https://github.com/TankEngine-ish/Basic-Node.js-Page#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
