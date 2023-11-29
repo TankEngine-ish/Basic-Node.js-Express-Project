@@ -18,6 +18,7 @@ app.get('/contact-me', (req, res) => res.sendFile(path.join(__dirname, 'html_pag
 app.use((req, res) => res.status(404).sendFile(path.join(__dirname, 'html_pages', '404.html')));
 
 //res.status function accepts a single parameter code that holds the HTTP status code. 
+// The error message appears if you try to visit any other localhost:8080 path beside the index, about and contact-me html pages.
 
 
 app.listen(port, () => console.log(`Server is now running on http://localhost:${port}`));
