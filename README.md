@@ -9,11 +9,13 @@ Use:
 
 ```
   node index.js
-
 ```
 
 to start the server on localhost:8080.
-*localhost:8080/about* and *localhost:8080/contact-me* are valid pages.
+*localhost:8080/about*  is a valid page.
+
+*localhost:8080/contact-me* is a valid page.
+
 *localhost:8080/about-me* is non-existing and will throw a 404 error.
 
 
