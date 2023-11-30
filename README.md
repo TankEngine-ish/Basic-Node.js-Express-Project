@@ -11,7 +11,8 @@ Use:
   node index.js
 ```
 
-to start the server on localhost:8080.
+to start the server on localhost:8080. <br>
+
 *localhost:8080/about*  is a valid page.
 
 *localhost:8080/contact-me* is a valid page.
